@@ -8,7 +8,7 @@ package wordjumble;
 import javax.swing.JOptionPane;
 /**
  *
- * @author Dean
+ * @author Karl Butler
  */
 public class WordJumble {
 
